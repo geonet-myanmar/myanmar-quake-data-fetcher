@@ -1,0 +1,18 @@
+# Python Standard Library Only - No External Dependencies Required
+# This project uses only built-in Python modules
+
+# Python Version Requirement
+# python>=3.7
+
+# Standard library modules used:
+# - json (JSON parsing and generation)
+# - urllib.parse (URL encoding)
+# - urllib.request (HTTP requests)
+# - pathlib (Modern file path handling)
+# - datetime (Date and time operations)
+
+# Optional dependencies for data analysis and visualization:
+# pandas>=1.3.0
+# geopandas>=0.10.0
+# matplotlib>=3.4.0
+# folium>=0.12.0
