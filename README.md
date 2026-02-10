@@ -46,8 +46,8 @@ No external packages are required!
 
 1. **Clone or download this repository**
    ```bash
-   git clone <repository-url>
-   cd GeoNet
+   git clone https://github.com/geonet-myanmar/myanmar-quake-data-fetcher.git
+   cd myanmar-quake-data-fetcher
    ```
 
 2. **Verify admin0.json exists**
